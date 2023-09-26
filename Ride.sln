@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ride.Tests", "Ride.Tests\Ride.Tests.csproj", "{222A15D6-06FD-4231-A750-726274C688FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ride", "Ride\Ride.csproj", "{0100067C-8A1B-4678-8BED-6D2ECDBC105E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{222A15D6-06FD-4231-A750-726274C688FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{222A15D6-06FD-4231-A750-726274C688FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{222A15D6-06FD-4231-A750-726274C688FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{222A15D6-06FD-4231-A750-726274C688FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0100067C-8A1B-4678-8BED-6D2ECDBC105E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0100067C-8A1B-4678-8BED-6D2ECDBC105E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0100067C-8A1B-4678-8BED-6D2ECDBC105E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0100067C-8A1B-4678-8BED-6D2ECDBC105E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

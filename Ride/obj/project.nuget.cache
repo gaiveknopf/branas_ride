@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "jPtfBbXRrgpIi9KNT5ObEyS8HU9Zl5uZ0XKak+qCi69uK4XOySFKvDYXuP0jf2g3OZRS2md10k2mm/P3LK6DJQ==",
+  "success": true,
+  "projectFilePath": "/Users/dev/Desktop/dotnet/branas/ride/ride/Ride/Ride.csproj",
+  "expectedPackageFiles": [
+    "/Users/dev/.nuget/packages/dapper/2.0.151/dapper.2.0.151.nupkg.sha512",
+    "/Users/dev/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.0/microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "/Users/dev/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/dev/.nuget/packages/npgsql/8.0.0-preview.4/npgsql.8.0.0-preview.4.nupkg.sha512",
+    "/Users/dev/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/Users/dev/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/Users/dev/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

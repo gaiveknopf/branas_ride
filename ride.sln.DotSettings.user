@@ -1,0 +1,29 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=1e589f7f_002D1724_002D4597_002Dafce_002D2d014200823e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Should not create an account with existing email" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::222A15D6-06FD-4231-A750-726274C688FD::net8.0::Ride.Tests.Integration.AccountServiceTests&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::222A15D6-06FD-4231-A750-726274C688FD::net8.0::Ride.Tests.Integration.RideServiceTests.RequestRide_WhenDataAreValid_ShouldCreateRide&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::222A15D6-06FD-4231-A750-726274C688FD::net8.0::Ride.Tests.Integration.RideServiceTests.RequestRide_WhenDataAreValid_ShouldRequestAndConsultRide&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::222A15D6-06FD-4231-A750-726274C688FD::net8.0::Ride.Tests.Integration.RideServiceTests.RequestRide_WhenDataAreValid_ShouldRequestAndAcceptRide&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::222A15D6-06FD-4231-A750-726274C688FD::net8.0::Ride.Tests.Integration.RideServiceTests.RequestRide_WhenDataAreValid_ShouldThrowErrorWhenRequestRideWithInvalidPassenger&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::222A15D6-06FD-4231-A750-726274C688FD::net8.0::Ride.Tests.Integration.RideServiceTests.RequestRide_WhenDataAreValid_ShouldThrowErrorWhenRequestRideAndPassengerAlreadyHasAnActiveRide&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::222A15D6-06FD-4231-A750-726274C688FD::net8.0::Ride.Tests.Integration.RideServiceTests.RequestRide_WhenDataAreValid_ShouldThrowErrorWhenAcceptRideWithInvalidDriver&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::222A15D6-06FD-4231-A750-726274C688FD::net8.0::Ride.Tests.Integration.RideServiceTests.RequestRide_WhenStatusIsNotRequested_ShouldThrowError&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::222A15D6-06FD-4231-A750-726274C688FD::net8.0::Ride.Tests.Integration.RideServiceTests.RequestRide_WhenDriverAlreadyHasAnotherRaceInProgress_ShouldNotAcceptRide&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::222A15D6-06FD-4231-A750-726274C688FD::net8.0::Ride.Tests.Integration.RideServiceTests.RequestRide_WhenDataAreValid_ShouldAcceptAndStartRide&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=4cbd1870_002Dd899_002D4191_002Db259_002Da0f184881df0/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Should create a new ride" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::A6FF735C-B558-4C2B-9C3C-B66D5EC49BFE::net8.0::Unit.RideTests.Create_WhenDataIsValid_ShouldCreated&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=fecafe70_002D10b9_002D4e45_002D85b1_002Dac7e8d52a478/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Should create a new ride #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::222A15D6-06FD-4231-A750-726274C688FD::net8.0::Ride.Tests.Unit.RideTests&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::222A15D6-06FD-4231-A750-726274C688FD::net8.0::Ride.Tests.Integration.AccountDAOTests.Create_WhenDataAreValid_ShouldCreateAccountInDatabase&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::222A15D6-06FD-4231-A750-726274C688FD::net8.0::Ride.Tests.Integration.AccountServiceTests.Signup_WhenDataAreValid_ShouldCreatePassenger&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::222A15D6-06FD-4231-A750-726274C688FD::net8.0::Ride.Tests.Integration.AccountServiceTests.Singup_WhenCpfInvalid_ShouldThrowException&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::222A15D6-06FD-4231-A750-726274C688FD::net8.0::Ride.Tests.Integration.AccountServiceTests.Singup_WhenEmailAlreadyExists_ShouldThrowException&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
